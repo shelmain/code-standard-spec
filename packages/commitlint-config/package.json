@@ -1,0 +1,24 @@
+{
+  "name": "code-standard-commitlint-config",
+  "version": "1.0.6",
+  "main": "index.js",
+  "description": " Git规范",
+  "keywords": [
+    "encode",
+    "commit",
+    "lint"
+  ],
+  "author": "xiuping-1",
+  "homepage": "https://github.com/xiuping-1/spec#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiuping-1/spec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xiuping-1/spec/issues"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^4.5.0"
+  }
+}

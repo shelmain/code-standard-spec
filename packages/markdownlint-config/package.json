@@ -1,0 +1,24 @@
+{
+  "name": "code-standard-markdownlint-config",
+  "version": "1.0.6",
+  "main": "index.json",
+  "description": "文档规范",
+  "keywords": [
+    "encode",
+    "markdown",
+    "lint"
+  ],
+  "author": "xiuping-1",
+  "homepage": "https://github.com/xiuping-1/spec#readme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiuping-1/spec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xiuping-1/spec/issues"
+  },
+  "peerDependencies": {
+    "markdownlint": "^0.28.1"
+  }
+}
