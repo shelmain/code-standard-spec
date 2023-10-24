@@ -1,6 +1,6 @@
 {
   "name": "code-standard-eslint-config",
-  "version": "1.1.0",
+  "version": "1.0.10",
   "main": "index.js",
   "description": "JavaScript TypeScript Node 规范",
   "keywords": [
