@@ -5,7 +5,7 @@ export default defineConfig4CustomTheme({
     '/': {
       lang: 'zh-CN',
       title: '前端编码规范工程化',
-      description: '前端编码规范工程化',
+      description: '前端编码规范工程化 ',
     },
   },
   base: '/spec/',
