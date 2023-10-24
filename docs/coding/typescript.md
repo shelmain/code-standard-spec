@@ -5,7 +5,7 @@ categories:
 tags:
   - 编码规范
 author:
-  name: 澄怀
+  name: xiuping-1
   link: https://github.com/xiuping-1/spec
 ---
 
