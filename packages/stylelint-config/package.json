@@ -12,7 +12,7 @@
     "test": "jest"
   },
   "author": "xiuping-1",
-  "homepage": "https://github.com/xiuping-1/spec#readme",
+  "homepage": "https://github.com/xiuping-1/code-standard-spec#readme",
   "license": "ISC",
   "peerDependencies": {
     "stylelint": ">=8.3.0",
@@ -25,9 +25,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xiuping-1/spec.git"
+    "url": "git+https://github.com/xiuping-1/code-standard-spec.git"
   },
   "bugs": {
-    "url": "https://github.com/xiuping-1/spec/issues"
+    "url": "https://github.com/xiuping-1/code-standard-spec/issues"
   }
 }

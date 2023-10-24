@@ -6,7 +6,7 @@ tags:
   - 工程规范
 author:
   name: xiuping-1
-  link: https://github.com/xiuping-1/spec
+  link: https://github.com/xiuping-1/code-standard-spec
 ---
 
 # code-standard-commitlint-config

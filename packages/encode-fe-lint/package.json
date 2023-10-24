@@ -86,14 +86,14 @@
     "vue-eslint-parser": "^7.3.0"
   },
   "author": "xiuping-1",
-  "homepage": "https://github.com/xiuping-1/spec#readme",
+  "homepage": "https://github.com/xiuping-1/code-standard-spec#readme",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xiuping-1/spec.git"
+    "url": "git+https://github.com/xiuping-1/code-standard-spec.git"
   },
   "bugs": {
-    "url": "https://github.com/xiuping-1/spec/issues"
+    "url": "https://github.com/xiuping-1/code-standard-spec/issues"
   },
   "gitHead": "cd61a8aaebb45512e793377667d9e77455ef0fe2"
 }

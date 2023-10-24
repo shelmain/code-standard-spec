@@ -110,13 +110,13 @@ export default defineConfig4CustomTheme({
     footer: {
       createYear: 2023,
       copyrightInfo:
-        'encode studio | <a href="https://github.com/xiuping-1/spec" target="_blank">github</a>',
+        'encode studio | <a href="https://github.com/xiuping-1/code-standard-spec" target="_blank">github</a>',
     },
 
     extendFrontmatter: {
       author: {
         name: 'xiuping-1',
-        link: 'https://github.com/xiuping-1/spec',
+        link: 'https://github.com/xiuping-1/code-standard-spec',
       },
     },
   },

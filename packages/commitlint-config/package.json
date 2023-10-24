@@ -9,14 +9,14 @@
     "lint"
   ],
   "author": "xiuping-1",
-  "homepage": "https://github.com/xiuping-1/spec#readme",
+  "homepage": "https://github.com/xiuping-1/code-standard-spec#readme",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xiuping-1/spec.git"
+    "url": "git+https://github.com/xiuping-1/code-standard-spec.git"
   },
   "bugs": {
-    "url": "https://github.com/xiuping-1/spec/issues"
+    "url": "https://github.com/xiuping-1/code-standard-spec/issues"
   },
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^4.5.0"
