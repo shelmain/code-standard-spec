@@ -96,16 +96,16 @@ importers:
       ejs:
         specifier: ^3.1.5
         version: 3.1.9
-      encode-fe-commitlint-config:
+      code-standard-commitlint-config:
         specifier: workspace:^
         version: link:../commitlint-config
-      encode-fe-eslint-config:
+      code-standard-eslint-config:
         specifier: workspace:^
         version: link:../eslint-config
-      encode-fe-markdownlint-config:
+      code-standard-markdownlint-config:
         specifier: workspace:^
         version: link:../markdownlint-config
-      encode-fe-stylelint-config:
+      code-standard-stylelint-config:
         specifier: workspace:^
         version: link:../stylelint-config
       eslint:
