@@ -9,7 +9,7 @@ author:
   link: https://github.com/xiuping-1/spec
 ---
 
-# encode-fe-markdownlint-config
+# code-standard-markdownlint-config
 
 :::tip 
 文档 规范

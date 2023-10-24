@@ -9,7 +9,7 @@ author:
   link: https://github.com/xiuping-1/spec
 ---
 
-# encode-fe-stylelint-config
+# code-standard-stylelint-config
 
 :::tip
 CSS 规范

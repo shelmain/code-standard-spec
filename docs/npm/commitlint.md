@@ -1,5 +1,5 @@
 ---
-title: encode-fe-commitlint-config
+title: code-standard-commitlint-config
 categories:
   - 工程规范
 tags:
@@ -9,7 +9,7 @@ author:
   link: https://github.com/xiuping-1/spec
 ---
 
-# encode-fe-commitlint-config
+# code-standard-commitlint-config
 
 :::tip
  Git 规范
@@ -22,7 +22,7 @@ author:
 使用时，需要安装 [@commitlint/cli](https://www.npmjs.com/package/@commitlint/cli)：
 
 ```bash
-npm install encode-fe-commitlint-config @commitlint/cli --save-dev
+npm install code-standard-commitlint-config @commitlint/cli --save-dev
 ```
 
 ## 使用
@@ -31,7 +31,7 @@ npm install encode-fe-commitlint-config @commitlint/cli --save-dev
 
 ```javascript
 module.exports = {
-  extends: ['encode-fe-commitlint-config'],
+  extends: ['code-standard-commitlint-config'],
 };
 ```
 

@@ -40,15 +40,15 @@ features:
 
 | 规范                                                              | Lint 工具                                                      | NPM 包                                                                              |
 | ----------------------------------------------------------------- | -------------------------------------------------------------- |------------------------------------------------------------------------------------|
-| JavaScript 编码规范 <br/> TypeScript 编码规范 <br/> Node 编码规范 | [ESLint](https://eslint.org/)                                  | [code-eslint-config](https://www.npmjs.com/package/code-eslint-config)             |
-| CSS 编码规范                                                      | [stylelint](https://stylelint.io/)                             | [code-stylelint-config](https://www.npmjs.com/package/code-stylelint-config)       |
-| Git 规范                                                          | [commitlint](https://commitlint.js.org/#/)                     | [code-commitlint-config](https://www.npmjs.com/package/code-commitlint-config)     |
-| 文档规范                                                          | [markdownlint](https://github.com/DavidAnson/markdownlint)     | [code-markdownlint-config](https://www.npmjs.com/package/code-markdownlint-config) |
-| Eslint 插件                                                       | [ESlint Plugin](https://eslint.org/docs/latest/extend/plugins) | [code-eslint-plugin](https://www.npmjs.com/package/code-eslint-plugin)             |
+| JavaScript 编码规范 <br/> TypeScript 编码规范 <br/> Node 编码规范 | [ESLint](https://eslint.org/)                                  | [code-standard-eslint-config](https://www.npmjs.com/package/code-standard-eslint-config)             |
+| CSS 编码规范                                                      | [stylelint](https://stylelint.io/)                             | [code-standard-stylelint-config](https://www.npmjs.com/package/code-standard-stylelint-config)       |
+| Git 规范                                                          | [commitlint](https://commitlint.js.org/#/)                     | [code-standard-commitlint-config](https://www.npmjs.com/package/code-standard-commitlint-config)     |
+| 文档规范                                                          | [markdownlint](https://github.com/DavidAnson/markdownlint)     | [code-standard-markdownlint-config](https://www.npmjs.com/package/code-standard-markdownlint-config) |
+| Eslint 插件                                                       | [ESlint Plugin](https://eslint.org/docs/latest/extend/plugins) | [code-standard-eslint-plugin](https://www.npmjs.com/package/code-standard-eslint-plugin)             |
 
-[code-lint](https://www.npmjs.com/package/code-lint) 收敛屏蔽了上述依赖和配置细节，提供简单的 `CLI` 和 `Node.js API`，让项目能够一键接入、一键扫描、一键修复、一键升级，并为项目配置 git commit 卡口，降低项目接入规范的成本。
+[code-standard-lint](https://www.npmjs.com/package/code-standard-lint) 收敛屏蔽了上述依赖和配置细节，提供简单的 `CLI` 和 `Node.js API`，让项目能够一键接入、一键扫描、一键修复、一键升级，并为项目配置 git commit 卡口，降低项目接入规范的成本。
 
-您可以使用[code-lint](https://www.npmjs.com/package/code-lint) 方便地为项目接入全部规范。
+您可以使用[code-standard-lint](https://www.npmjs.com/package/code-standarde-lint) 方便地为项目接入全部规范。
 
 </br>
 
